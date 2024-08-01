@@ -2,7 +2,10 @@
 
 This is a test with selenium to automate and send for SMTP emailer and Docker using for continuous monitoring.
 
-# docker build -t my-app-insta .
+Certify to make your password for Email sender and put the right informations for your instagram
 
+DO NOT upload your instagram informations on GitHub or other place.
 
-# docker run -d --name my-app-container-name my-app-insta
+#### docker build -t my-app-insta .
+
+#### docker run -d --name my-app-container-name my-app-insta
